@@ -1,6 +1,13 @@
 @import url(https://fonts.google.com/share?selection.family=Open%20Sans:wght@400;700%7COxygen:wght@300);
 
-/*layout de la page ../*
+
 
 body {
-    
+    background-image:url(mountains-190055__340.jpeg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color:black
+}
+
